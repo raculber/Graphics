@@ -1,1 +1,1 @@
-# Graphics
+# Projects done in Computer Graphics
